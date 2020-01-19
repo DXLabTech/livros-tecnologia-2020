@@ -18,6 +18,7 @@ Tem indicação de algum livro? Quer contribuir? Basta fazer um pull request!
 
 * Devops	
   * O projeto fênix: um Romance Sobre TI, DevOps e Sobre Ajudar o seu Negócio a Vencer - https://amzn.to/379kA8c
+  * Manual de Devops. Como Obter Agilidade, Confiabilidade e Segurança em Organizações Tecnológicas - https://amzn.to/2TDodzC
 
 * Gestão
   * A Arte da Gestão: um Guia Prático Para Integrar Liderança e Recursos Humanos no Setor de Tecnologia - https://amzn.to/2ESOmSo	
