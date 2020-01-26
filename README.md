@@ -28,3 +28,6 @@ Tem indicação de algum livro? Quer contribuir? Basta fazer um pull request!
   * Streaming Systems - https://amzn.to/2s7ZYyo
   * Foundations for Architecting Data Solutions - https://amzn.to/2Su0Cka
   * Architecting Modern Data Platforms: A Guide to Enterprise Hadoop at Scale - https://amzn.to/2ZkLUgZ
+  
+* Segurança
+  * Mastering OAuth 2.0 - https://www.amazon.com/Mastering-OAuth-2-0-Charles-Bihis/dp/1784395404
