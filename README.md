@@ -31,3 +31,8 @@ Tem indicação de algum livro? Quer contribuir? Basta fazer um pull request!
   
 * Segurança
   * Mastering OAuth 2.0 - https://www.amazon.com/Mastering-OAuth-2-0-Charles-Bihis/dp/1784395404
+
+* Arquitetura de Sistemas
+  * Arquitetura Limpa: O Guia do Artesão - https://www.amazon.com.br/Arquitetura-Limpa-Artesao-Estrutura-Software/dp/8550804606
+
+
