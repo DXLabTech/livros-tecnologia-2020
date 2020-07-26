@@ -21,8 +21,10 @@ Tem indicação de algum livro? Quer contribuir? Basta fazer um pull request!
   * Manual de Devops. Como Obter Agilidade, Confiabilidade e Segurança em Organizações Tecnológicas - https://amzn.to/2TDodzC
 
 * Gestão
-  * A Arte da Gestão: um Guia Prático Para Integrar Liderança e Recursos Humanos no Setor de Tecnologia - https://amzn.to/2ESOmSo	
+  * A Arte da Gestão: um Guia Prático Para Integrar Liderança e Recursos Humanos no Setor de Tecnologia - https://amzn.to/2WUcXzx	
   * Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations - https://amzn.to/2t06KpN
+  * 97 Things Every Engineering Manager Should Know - https://amzn.to/3f69O5X
+  * Software Engineering at Google - https://amzn.to/3g6Ze00
 
 * Big Data
   * Streaming Systems - https://amzn.to/2s7ZYyo
