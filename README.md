@@ -14,7 +14,7 @@ Tem indicação de algum livro? Quer contribuir? Basta fazer um pull request!
 * Microserviços e computação distribuida 
   * Microsserviços prontos para produção - https://amzn.to/35WHXRO
   * Design Data Intensive Applications - https://amzn.to/33KSUUW
-  * Monolith to Microservices - https://amzn.to/398HvlQ
+  * Monolith to Microservices - https://amzn.to/32aS9Xy (Português)
 
 * Devops	
   * O projeto fênix: um Romance Sobre TI, DevOps e Sobre Ajudar o seu Negócio a Vencer - https://amzn.to/379kA8c
