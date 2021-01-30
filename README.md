@@ -26,6 +26,7 @@ Tem indicação de algum livro? Quer contribuir? Basta fazer um pull request!
   * Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations - https://amzn.to/2t06KpN
   * 97 Things Every Engineering Manager Should Know - https://amzn.to/3f69O5X
   * Software Engineering at Google - https://amzn.to/3g6Ze00
+  * Tire seu projeto do papel com SCRUM - https://www.amazon.com.br/Tire-seu-projeto-papel-Scrum/dp/8577346986/
 
 * Big Data
   * Streaming Systems - https://amzn.to/2s7ZYyo
